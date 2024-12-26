@@ -1,8 +1,27 @@
-# React + Vite
+ # Award Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my Award Website. I created these by following Javascript Mastery
 
-Currently, two official plugins are available:
+<img width="1800" alt="388959506-ab600f24-f4d9-4cef-8f1e-3fd9194afb30" src="https://github.com/user-attachments/assets/d2824b07-635a-413d-aa1b-99f6ee9a3a40" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# ⚙️ Tech Stack
+ 👉 GSAP <br/>
+ 👉 Tailwind <br/>
+ 👉 React.Js
+
+# 🔋 Features
+👉 Scroll-Based Animations: Dynamic animations triggered by scrolling for a more engaging user experience.
+
+👉 Clip Path Shaped Animations: Unique geometric transitions using CSS clip-paths to create visually stunning effects.
+
+👉 3D Hover Effects: Interactive 3D transformations that respond to user interactions for a modern feel.
+
+👉 Video Transitions: Seamlessly integrated video elements to enhance storytelling and flow.
+
+👉 Smooth UI/UX: Polished interfaces with buttery-smooth interactions for an intuitive user journey.
+
+👉 Completely Responsive: Flawless adaptation across all devices, ensuring a consistent experience.
+
+and many more, including code architecture and reusability
+
+🔗 <td> <a href = "yu-animated-website.vercel.app/" alt="Live Demo" /> Live Demo</td> 
